@@ -48,8 +48,9 @@
 #bottom{
     width: 800px;
     height: 300px;
-    text-align: center;
     background-color: #87ceeb;
+    margin-left: auto;
+    margin-right: auto;
 }
 #bottom-child01{
     width: 400px;
